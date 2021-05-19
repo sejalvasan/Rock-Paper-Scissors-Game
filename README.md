@@ -1,5 +1,8 @@
 # Rock-Paper-Scissors-Game
 
+A game of rock paper scissors between the player and the computer made using HTML, CSS and JavaScript.<br>
+The result can include You Won, Computer Won or a Draw.
+
 <img width="500" alt="2021-05-18 (2)" src="https://user-images.githubusercontent.com/69964629/118646872-5f194580-b7fe-11eb-8698-db85af9a0cd0.png">
 <img width="500" alt="2021-05-18 (3)" src="https://user-images.githubusercontent.com/69964629/118646910-66d8ea00-b7fe-11eb-93bc-d2fef3ee5505.png">
 <img width="500" alt="2021-05-18 (4)" src="https://user-images.githubusercontent.com/69964629/118646975-77896000-b7fe-11eb-922b-b7f373f51ead.png">
